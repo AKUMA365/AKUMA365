@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm AKUMA365 👋
 
-<!--
-**AKUMA365/AKUMA365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 System Software Engineer & Engine Developer
+I focus on high-performance systems, game engine architecture, and the intersection of code, physics, and advanced mathematics.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** [Pulse Engine](https://github.com/AKUMA365/Pulse-Engine) — a custom C++ simulation/game engine.
+- 📐 **Deepening knowledge in:** Calculus, Discrete Math, and Computer Architecture.
+- 💼 **Professional stack:** C++, Go (Microservices), Python.
+- 🔬 **Interests:** Physics simulations, Operating Systems, Electronics (ESP32/IoT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,go,py,qt,cmake,linux,docker,git,react,arduino&perline=10" />
+  </a>
+</p>
+
+---
+
+### 📊 Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKUMA365&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKUMA365&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="languages" height="150" />
+</p>
