@@ -10,13 +10,11 @@ I focus on high-performance systems, game engine architecture, and the intersect
 
 ---
 
-### 🛠 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,py,qt,cmake,linux,docker,git,react,arduino&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,py,qt,cmake,linux,docker,git,angular,arduino&perline=10" />
   </a>
 </p>
-
 ---
 
 ### 📊 Statistics
