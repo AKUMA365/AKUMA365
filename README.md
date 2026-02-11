@@ -5,17 +5,16 @@ I focus on high-performance systems, game engine architecture, and the intersect
 
 - 🔭 **Currently working on:** [Pulse Engine](https://github.com/AKUMA365/Pulse-Engine) — a custom C++ simulation/game engine.
 - 📐 **Deepening knowledge in:** Calculus, Discrete Math, and Computer Architecture.
-- 💼 **Professional stack:** C++, Go (Microservices), Python.
-- 🔬 **Interests:** Physics simulations, Operating Systems, Electronics (ESP32/IoT).
+- 💼 **Professional stack:** Java (Spring Boot), Go (Microservices), C++, Python.
+- 🔬 **Interests:** Physics simulations, Operating Systems, Electronics (ESP32/IoT), Cloud Infrastructure.
 
 ---
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,py,qt,cmake,linux,docker,git,angular,arduino&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,cpp,py,postgres,mongodb,redis,kafka,aws,postman,linux,docker,gitlab,git&perline=8" />
   </a>
 </p>
----
 
 ### 📊 Statistics
 <p align="left">
