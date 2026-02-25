@@ -1,6 +1,6 @@
 # Hi there, I'm AKUMA365 👋
 
-### 👨‍💻 System Software Engineer & Engine Developer
+### 👨‍💻 Software Engineer
 I focus on high-performance systems, game engine architecture, and the intersection of code, physics, and advanced mathematics.
 
 - 🔭 **Currently working on:** [Pulse Engine](https://github.com/AKUMA365/Pulse-Engine) — a custom C++ simulation/game engine.
